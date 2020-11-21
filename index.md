@@ -4,4 +4,10 @@ Parsing through the 2019 NYC Airbnb data for Queens listings, our group focused 
 # Our Process:
 Using python packages matplotlib, pandas, and numpy we created charts and graphs to visualize different aspects of the data. We examined average listings prices across Queens and noticed that Rockaway Beach has the highest average price for listings while Ridgewood has the lowest. We also noticed that Rockway Beach as the highest average number of reviews. Additionally, we created a bar graph that plots the average minimum number of nights for listings in Forest Hills, Maspeth, Ridgewood, and Rockaway Beach. Ridgewood has the highest average minimum number of nights while Rockaway Beach has the lowest average minimum number of nights so if you want to book a short stay this is an ideal neighborhood.
 
+# Our Visuals:
+<img src="1img.png" width="400">
+<img src="2img.png" width="400">
+<img src="3img.png" width="400">
+<img src="4img.png" width="400">
+<img src="5img.png" width="400">
 
