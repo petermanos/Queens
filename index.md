@@ -11,3 +11,12 @@ Using python packages matplotlib, pandas, and numpy we created charts and graphs
 <img src="4img.png" width="400">
 <img src="5img.png" width="400">
 
+# Our Individual Neighborhood Analysis: 
+## Ridgewood: 
+https://nuzhatabida.github.io/Ridgewood-Airbnb-Analysis/
+
+## Maspeth:
+
+## Rockaway Beach
+
+## Forest Hills
