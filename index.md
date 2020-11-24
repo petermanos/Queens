@@ -16,6 +16,7 @@ Using python packages matplotlib, pandas, and numpy we created charts and graphs
 https://nuzhatabida.github.io/Ridgewood-Airbnb-Analysis/
 
 ## Maspeth:
+https://manav809.github.io/Maspeth-Neighborhood-Analysis/
 
 ## Rockaway Beach
 
