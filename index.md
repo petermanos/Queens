@@ -13,12 +13,13 @@ Using python packages matplotlib, pandas, and numpy we created charts and graphs
 
 # Our Individual Neighborhood Analysis: 
 ## Ridgewood: 
-https://nuzhatabida.github.io/Ridgewood-Airbnb-Analysis/
+<https://nuzhatabida.github.io/Ridgewood-Airbnb-Analysis/>
 
 ## Maspeth:
-https://manav809.github.io/Maspeth-Neighborhood-Analysis/
+<https://manav809.github.io/Maspeth-Neighborhood-Analysis/>
 
 ## Rockaway Beach
+<https://leahahdoot.github.io/RockawayBeach/>
 
 ## Forest Hills
-https://petermanos.github.io/Forest-Hills/
+<https://petermanos.github.io/Forest-Hills/>
