@@ -1,5 +1,5 @@
-# Our Project:
 <img src="Queens.png" width="900">
+# Our Project:
 Parsing through the 2019 NYC Airbnb data for Queens listings, our group focused on specific neighborhoods, namely Forest Hills, Maspeth, Ridgewood, and Rockaway Beach. We examined the demographic makeup, crime rates and commutes of each neighborhood. We observed that while Maspeth, Forest Hills, and Rockaway Beach are primarily white, Ridgewood is comprised of a largely Hispanic and White population. We also noticed that while all of the neighborhoods have access to trains and buses, many listings in Ridgewood for instance are not close to the neighborhood's transportation services. Finally, Ridgewood and Maspeth are on the more dangerous side in terms of crime because its rates are higher than national ones while Forest Hills and Rockaway Beach have relatively low crime rates. 
 
 # Our Process:
